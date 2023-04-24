@@ -18,7 +18,4 @@ Ademais, é possível acrescentar mais alguns outros materiais e notas, que volt
     -> O curso da Coursera citado acima aprofunda em conceitos, há viés prático, todavia não é o foco. Pensando em aplicação em mais alto nível para projetos, há também a formação 'Introduction to TensorFlow for Artificial Intelligence';
         -> Em nota complementar, há também o material do minicurso "Introdução à Inteligência Artificial e Visão Computacional com TensorFlow", que ministramos nesse começo de semestre na SdC. Segue também uma abordagem mais prática, e o material está completo =] (SLIDE e GITHUB)
 
-Com os conteúdos acima acredito que vocês irão ter uma boa base para uma gama de projetos, bem como se nortear para tudo que vocês pensem em fazer - se alinhar prática, bem como à sair 'cutucando' tudo que for de material complementar, não há limites para o que é possível fazer. Ademais, é bem importante ressaltar a importância de que vocês leiam documentação em partes que vocês achem bacana, e principalmente onde há dificuldade (isso vale para tudo e ajuda demais!).
 
-Por fim, gente, espero ter ajudado vocês de alguma forma neste início; filtrei um pouco algumas coisas que são mais específicas para não ficar muito extenso.
-Mantemos o contato! Qualquer dúvida que vocês tenham ou ajuda que vocês precisem é só mandar! =]
